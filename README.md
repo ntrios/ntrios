@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Samplemed](https://www.samplemed.com.br/)
+
+- 🌱 I’m currently learning <a class="logo" href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" height="19"></a>
+
+![Snake](https://raw.githubusercontent.com/ntrios/ntrios/main/snake.svg)
+
 <!--
-**ntrios/ntrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Snake SVG
+https://platane.github.io/snk/
 -->
+
+
+
